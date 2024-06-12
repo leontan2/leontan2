@@ -1,8 +1,6 @@
 ## Hi there, I'm Leon 👋
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=leontan2&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="leontan2" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leontan2&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="leontan2" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=leontan2&theme=material-palenight&hide_border=false" alt="leontan2" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leontan2&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="leontan2" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leontan2&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="leontan2" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=leontan2&theme=material-palenight&hide_border=false" alt="leontan2" /> </p>
 
 <!--
 **leontan2/leontan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
